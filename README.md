@@ -7,14 +7,14 @@
   <title>Redirecting...</title>
 
   <meta http-equiv="refresh"
-        content="0;url=https://www.profitableratecpmnetwork.com/mi3r97qi?key=e1da1ebde0e0ccda86de19c3efb39398">
+        content="0;https://www.profitableratecpmnetwork.com/mi3r97qi?key=e1da1ebde0e0ccda86de19c3efb39398">
 </head>
 <body>
   <p>Redirecting you to your destination...</p>
 
   <p>
     If you are not redirected automatically,
-    <a href="https://www.profitableratecpmnetwork.com/mi3r97qi?key=e1da1ebde0e0ccda86de19c3efb39398E">
+    <a href="https://www.profitableratecpmnetwork.com/mi3r97qi?key=e1da1ebde0e0ccda86de19c3efb39398">
       click here to continue
     </a>.
   </p>
